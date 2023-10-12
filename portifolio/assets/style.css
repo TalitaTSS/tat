@@ -1,0 +1,186 @@
+body{
+   background-color: black; 
+   color: white;
+ margin:0;
+   /*padding: 30px 50px;*/
+   
+     }
+strong { 
+    color: #22D4FD
+   
+}
+.distac { 
+    color: #22D4FD;
+   
+}
+
+
+.nab { 
+    display:flex;
+   align-items: center;
+   justify-content: space-between;
+   margin:10% 25%;
+   gap:40px;
+   
+    }
+      
+.nab_1{
+    width: 615px;
+   
+
+
+}
+
+.nab_22{
+     font-size: 36px;  
+    font-family: 'krona one' , sans-serif; 
+    
+   
+ }
+    
+.nab_33{
+    font-size:24px ;
+    font-family: 'monteserrat' , sans-serif ;
+
+}
+
+.cont{ 
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    gap:32px;
+}
+ 
+.bbes{
+    font-family: 'krona one', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+
+.cont22{
+/*background-color: #22D4FD ;*/
+width: 378px;
+text-align: center;
+border: 2PX solid #22D4FD;
+border-radius: 8px;
+font-size: 24px;
+padding: 20px 0 ;
+text-decoration: none;
+color: #F6F6F6;
+font-family: 'monteserrat', sans-serif;
+font-weight: 600;
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 3px;
+
+}
+
+.cont33{
+/*background-color: #22D4FD ;*/
+width: 378px;
+text-align: center;
+border-radius: 8px;
+border: 2px solid #22D4FD;
+font-size: 24px;
+padding: 20px 0;
+text-decoration: none;
+color: #f6f6f6;
+font-family: 'monteserrat', sans-serif;
+font-weight: 600;
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 5px;
+}
+
+.gitimag{
+    width: 50px;
+    height: 35px;
+   
+  
+}
+
+
+.instagg{
+    width: 30px ;
+    height: 32px;
+    }
+ 
+   .cont22:hover{
+    background-color: #F6F1F1;
+    color: #19A7CE;
+    border: 3px solid #F6F1F1;
+    
+    
+   }
+
+   .cont33:hover{
+    background-color: #F6F1F1;
+    color:#19A7CE;
+    border:3px solid #F6F1F1
+ }
+
+ .talita{
+    color:#19A7CE;
+    background-color: #F6F1F1;
+    text-align: center;
+    font-family: 'monteserrat', sans-serif;
+   padding: 10px;
+    
+    display: flex;
+   align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    gap: 50px;
+    flex-direction: row-reverse;
+    font-weight: 400;
+ }  
+ .ghost{
+    width:50px;
+    height: 50px;
+    display: flex;
+    justify-content:center;
+    gap: 100px;
+   
+ }
+
+ .endi{
+    font-family:'monteserrat', sans-serif;
+    font-size: 16px;
+    color: #19A7CE;
+    display: flex;
+    flex-direction: row;
+    padding: 25px;
+    align-self: flex-start;
+    font-weight: 400;
+ }
+ 
+
+
+.home2{
+    display: flex;
+    /*flex-wrap: nowrap;*/
+    gap: 50px;
+   padding: 5% 0% 0% 25%;
+    
+    
+
+    
+ }
+ 
+ 
+ .home3{
+font-family: 'monteserrat', sans-serif;
+font-size: 24px;
+font-weight: 600;
+text-decoration: none;
+color: #19A7CE;
+
+ }
+
+
+
+ 
